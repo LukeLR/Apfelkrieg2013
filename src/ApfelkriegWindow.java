@@ -17,8 +17,6 @@ import javax.swing.JTextField;
 import javax.swing.JSeparator;
 import javax.swing.filechooser.FileFilter;
 
-import apfelkrieg_danielOld.lang.*;
-
 public class ApfelkriegWindow extends JFrame{
 	/**
 	 * 

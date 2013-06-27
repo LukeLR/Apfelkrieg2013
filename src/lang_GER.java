@@ -1,5 +1,3 @@
-package lang;
-
 public class lang_GER {
 	
 	//settings-section
