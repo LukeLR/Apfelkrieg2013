@@ -1,5 +1,3 @@
-package apfelkrieg_danielOld;
-
 public class Char {
 	Garden ownGarden, enemyGarden;
 	int appleCache, xPos, yPos, xNextApple = 0, yNextApple = 0, xRandomDirection, yRandomDirection;

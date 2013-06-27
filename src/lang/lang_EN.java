@@ -1,4 +1,4 @@
-package apfelkrieg_danielOld.lang;
+package lang;
 
 public class lang_EN {
 	//settings-section

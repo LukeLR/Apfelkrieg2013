@@ -1,5 +1,3 @@
-package apfelkrieg_danielOld;
-
 public class ApfelkriegStart {
 	public static void main(String[] args) {
 		String[] path = new String[2];
