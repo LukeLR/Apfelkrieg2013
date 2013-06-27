@@ -1,5 +1,3 @@
-package apfelkrieg_danielOld;
-
 import java.awt.Graphics;
 import java.io.FileWriter;
 import java.io.IOException;

@@ -1,4 +1,3 @@
-package apfelkrieg_danielOld;
 import java.awt.Color;
 import java.awt.Graphics;
 

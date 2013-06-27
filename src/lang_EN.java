@@ -1,5 +1,3 @@
-package apfelkrieg_danielOld.lang;
-
 public class lang_EN {
 	//settings-section
 	public static String numberStepsL = "Moves";

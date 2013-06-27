@@ -1,5 +1,3 @@
-package apfelkrieg_danielOld.lang;
-
 public class lang_GER {
 	
 	//settings-section
