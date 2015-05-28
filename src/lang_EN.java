@@ -5,7 +5,7 @@ public class lang_EN {
 	public static String vL = "Dice-modifier";
 	public static String vTip = "<html>The number added to the result of rolling the dice.<br/>Anyone knows a better word for that?</html>";
 	public static String charsAI = "Intelligent players";
-	public static String aiTip = "Players move based on the gameÕs rules. Consult Help";
+	public static String aiTip = "Players move based on the gameâ€™s rules. Consult Help";
 	//outFile-section
 	public static String outFiles = "Save output";
 	public static String outFilesTip = "Saves the each moves's total number of apples in two files";

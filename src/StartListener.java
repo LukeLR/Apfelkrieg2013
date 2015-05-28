@@ -24,7 +24,7 @@ public class StartListener implements ActionListener{
 				am.setSize(1150, 700);
 			} else {
 				am.setContentPane(new JPanel());
-				am.setTitle("Simulation läuft ... (0%)");
+				am.setTitle("Simulation l√§uft ... (0%)");
 				am.setSize(270, 70);		
 			}
 			path[0] = am.prefs()[8];

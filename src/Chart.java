@@ -62,7 +62,7 @@ public class Chart {
 			g.drawString("20", 10, 276);
 			g.drawString("0", 16, 336);
 		}
-		g.drawString("€pfel", 10, 360);
+		g.drawString("Ã„pfel", 10, 360);
 		g.setColor(Color.RED);
 		g.drawString("Thomas", 730, 360);
 		g.setColor(Color.BLUE);
